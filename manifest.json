@@ -8,8 +8,8 @@
     {
       "version": "a.0.2",
       "requires": "a.0.1",
-      "url": "https://github.com/TWOJE_KONTO/pulpit-tcg/releases/download/0.1.1/0.1.1.pck",
-      "sha256": "HASH_PLIKU"
+      "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.2/ptcg.a.0.2.pck",
+      "sha256": "c51ea610eb995b724758f2658bc74999e8c02db21e8979dc521f39489ece51fd"
     }
   ]
 }
