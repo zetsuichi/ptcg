@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "base_version": "a.0.1",
-  "latest_version": "a.0.3",
+  "latest_version": "a.0.4",
   "entry_scene": "res://main.tscn",
   "notes": "Karty i mniejsze poprawki",
   "patches": [
@@ -16,6 +16,12 @@
       "requires": "a.0.2",
       "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.3/ptcg.a.0.3.pck",
       "sha256": "5a2b9a607eaa0ed8437ee6d5cb63c0a819d244d0b908867248ca948afdc641d2"
+    },
+    {
+      "version": "a.0.4",
+      "requires": "a.0.3",
+      "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.4/ptcg.a.0.4.pck",
+      "sha256": "a066b48d28ce5abe9d525a4930e8b14e23829a16a300e0765b67ba56eeff6499"
     }
   ]
 }
