@@ -3,7 +3,7 @@
   "base_version": "a.0.1",
   "latest_version": "a.0.51",
   "entry_scene": "res://main.tscn",
-  "notes": "Karty i mniejsze poprawki",
+  "notes": "Mniejsze poprawki funkcjonalne.",
   "patches": [
     {
       "version": "a.0.2",
