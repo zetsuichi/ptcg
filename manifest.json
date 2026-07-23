@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "base_version": "a.0.1",
-  "latest_version": "a.0.6",
+  "latest_version": "a.0.61",
   "entry_scene": "res://main.tscn",
-  "notes": "Balance patch",
+  "notes": "Balance patch + postaci",
   "patches": [
     {
       "version": "a.0.2",
@@ -40,6 +40,12 @@
       "requires": "a.0.51",
       "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.6/ptcg.a.0.6.pck",
       "sha256": "069cda17c28cba18cd7774d6bff264f00f303f65ac263fa7d90e3274dbe0f6ac"
+    },
+    {
+      "version": "a.0.61",
+      "requires": "a.0.6",
+      "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.61/ptcg.a.0.61.pck",
+      "sha256": "a631a57d1dc4cc7149eff16564cb670db012cb8e7921dc85b6ea72523a933f18"
     }
   ]
 }
