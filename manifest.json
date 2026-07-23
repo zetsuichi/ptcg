@@ -28,6 +28,12 @@
       "requires": "a.0.4",
       "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.5/ptcg.a.0.5.pck",
       "sha256": "47af9f9f065b08de2a8cf774a5e34c2d9becfba9fa3af7a0d787fdae2291da30"
+    },
+    {
+      "version": "a.0.51",
+      "requires": "a.0.5",
+      "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.51/ptcg.a.0.51.pck",
+      "sha256": "7b1169581be60df0f5cc0a9d9c5cdd607020d57ca112c9578ccffd2de2fc31a3"
     }
   ]
 }
