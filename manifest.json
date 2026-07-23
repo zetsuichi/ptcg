@@ -46,7 +46,7 @@
       "requires": "a.0.6",
       "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.61/ptcg.a.0.61.pck",
       "sha256": "a631a57d1dc4cc7149eff16564cb670db012cb8e7921dc85b6ea72523a933f18"
-    }
+    },
     {
       "version": "a.0.62",
       "requires": "a.0.61",
