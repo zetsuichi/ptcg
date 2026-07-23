@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "base_version": "a.0.1",
-  "latest_version": "a.0.65",
+  "latest_version": "a.0.66",
   "entry_scene": "res://main.tscn",
-  "notes": "Balance patch + postaci + nagroda",
+  "notes": "Handlarz",
   "patches": [
     {
       "version": "a.0.2",
@@ -70,6 +70,12 @@
       "requires": "a.0.64",
       "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.65/ptcg.a.0.65.pck",
       "sha256": "1d7d014b26ebeb072c531a8e1be597431e8a67b6d6befeb380675ba0dcd871b5"
+    },
+    {
+      "version": "a.0.66",
+      "requires": "a.0.65",
+      "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.66/ptcg.a.0.66.pck",
+      "sha256": "a145df5a20b09fa629a449278ef598734d4e1634d4c3970f07366cc435921e0a"
     }
   ]
 }
