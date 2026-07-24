@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "base_version": "a.0.1",
-  "latest_version": "a.0.66",
+  "latest_version": "a.0.7",
   "entry_scene": "res://main.tscn",
-  "notes": "Handlarz",
+  "notes": "Dodanie Lore postaci, przebudowa UI.",
   "patches": [
     {
       "version": "a.0.2",
@@ -76,6 +76,12 @@
       "requires": "a.0.65",
       "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.66/ptcg.a.0.66.pck",
       "sha256": "a145df5a20b09fa629a449278ef598734d4e1634d4c3970f07366cc435921e0a"
+    },
+    {
+      "version": "a.0.7",
+      "requires": "a.0.66",
+      "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.7/ptcg.a.0.7.pck",
+      "sha256": "9b6271d1b7e091ea7fb1ee7c99038c0e0bcf93f4c0c65f4cc49bc5f43d326dfb"
     }
   ]
 }
