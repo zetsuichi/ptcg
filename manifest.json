@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "base_version": "a.0.1",
-  "latest_version": "a.0.71",
+  "latest_version": "a.0.72",
   "entry_scene": "res://main.tscn",
-  "notes": "Dodanie Lore postaci, przebudowa UI.",
+  "notes": "Zmiany w opisach kart",
   "patches": [
     {
       "version": "a.0.2",
@@ -88,6 +88,12 @@
       "requires": "a.0.7",
       "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.71/ptcg.a.0.71.pck",
       "sha256": "d5df865a47c2cf1af6eb26c899038d449bd0161286127c1e982eed1ac359d2a3"
+    },
+    {
+      "version": "a.0.72",
+      "requires": "a.0.71",
+      "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.72/ptcg.a.0.72.pck",
+      "sha256": "653324b9d3f7fa760e585306d0ed3746e74743dc543bf0a3a2d2629e7fd123a4"
     }
   ]
 }
