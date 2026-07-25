@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "base_version": "a.0.1",
-  "latest_version": "a.0.72",
+  "latest_version": "a.0.73",
   "entry_scene": "res://main.tscn",
   "notes": "Zmiany w opisach kart",
   "patches": [
@@ -94,6 +94,13 @@
       "requires": "a.0.71",
       "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.72/ptcg.a.0.72.pck",
       "sha256": "653324b9d3f7fa760e585306d0ed3746e74743dc543bf0a3a2d2629e7fd123a4"
+    },
+    {
+      "version": "a.0.73",
+      "requires": "a.0.72",
+      "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.73/ptcg.a.0.73.pck",
+      "sha256": "e3145e516a595c21566561bda07205631b313a16c8f6fc9376f95058f05702f7"
     }
+    
   ]
 }
