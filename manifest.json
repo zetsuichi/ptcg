@@ -3,7 +3,7 @@
   "base_version": "a.0.1",
   "latest_version": "a.0.79.1",
   "entry_scene": "res://main.tscn",
-  "notes": "Zmiany w opisach kart",
+  "notes": "Aktualizacja zabezpieczeń.",
   "patches": [
     {
       "version": "a.0.2",
