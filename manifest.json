@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "base_version": "a.0.1",
-  "latest_version": "a.0.79.1",
+  "latest_version": "a.0.79",
   "entry_scene": "res://main.tscn",
   "notes": "Aktualizacja zabezpieczeń.",
   "patches": [
@@ -112,12 +112,6 @@
       "requires": "a.0.74",
       "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.79/ptcg.a.0.79.pck",
       "sha256": "ed8e2f5a40b6f27fcdac80b5965615084053647fe2ade13f243efad08c140ed4"
-    },
-    {
-      "version": "a.0.79.1",
-      "requires": "a.0.79",
-      "url": "https://github.com/zetsuichi/ptcg/releases/download/a.0.79.1/ptcg.a.0.79.1.pck",
-      "sha256": "b97b95b09aaf742a08aeb49af8854f2277ba9ed9337b22b0294bea92ce97a7cc"
     }
     
     
